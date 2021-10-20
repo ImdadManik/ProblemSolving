@@ -17,8 +17,7 @@ namespace ProblemSolving
                 case "kamran":
                     break;
 
-            }
-
+            } 
             Console.Read();
         }
 
